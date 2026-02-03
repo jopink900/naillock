@@ -1,9 +1,7 @@
-__pycache__/
-*.pyc
+user_dbs/
 *.db
 *.sqlite
-data.csv
-feedback.csv
-photos/
+__pycache__/
+*.pyc
 .DS_Store
-users/
+
