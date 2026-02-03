@@ -1,0 +1,5 @@
+data.csv
+feedback.csv
+photos/
+__pycache__/
+*.pyc
